@@ -1,5 +1,7 @@
 # Node & Express Demo App for Azure DevOps
 
+[![Build Status](https://dev.azure.com/speaktoabu0269/NodeDemo/_apis/build/status/speaktoabu.node-express-azure?branchName=master)](https://dev.azure.com/speaktoabu0269/NodeDemo/_build/latest?definitionId=2&branchName=master)
+
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
 
 
